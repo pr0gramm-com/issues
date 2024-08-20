@@ -1,0 +1,39 @@
+name: Bug Report
+description: Ein Fehler, der gefixt werden sollte.
+labels:
+  - bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was genau der Fehler ist.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduktion
+      description: Wie kann man den Fehler reproduzieren?
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: Erwartung
+      description: Was sollte eigentlich passieren?
+  - type: textarea
+    id: env
+    attributes:
+      label: Umgebung
+      description: Deine Browser- und Betriebbsystemversion
+      placeholder: |
+        Beispielsweise:
+        - Firefox 129 auf Windows 10H2
+        - Android-App auf Android 13
+        - Mobile Webseite auf Safari 17.1 mit iOS 17.1
+  - type: textarea
+    id: rest
+    attributes:
+      label: Noch was?
+      description: Was du uns schon immer mal sagen wolltest
