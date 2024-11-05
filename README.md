@@ -78,5 +78,5 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Werbung
 - Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
 
-📝 Dieser Issue Tracker wird regelmäßig aktualisiert.
+📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 

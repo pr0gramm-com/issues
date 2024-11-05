@@ -3,37 +3,56 @@ description: Ein Fehler, der gefixt werden sollte.
 labels:
   - bug
 body:
+  - type: input
+    id: title
+    attributes:
+      label: Aussagekräftiger Titel
+      description: |
+        Wähle einen kurzen, aber präzisen Titel.
+        Der Titel sollte das Hauptproblem klar beschreiben.
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
-      label: Fehlerbeschreibung
-      description: Was genau der Fehler ist.
+      label: Detaillierte Fehlerbeschreibung
+      description: |
+        Beschreibe genau, was nicht funktioniert.
+        Füge wenn möglich Screenshots oder Fehlermeldungen hinzu.
+        Sei so spezifisch wie möglich.
     validations:
       required: true
   - type: textarea
     id: repro
     attributes:
-      label: Reproduktion
-      description: Wie kann man den Fehler reproduzieren?
+      label: Reproduzierbarkeit
+      description: |
+        Liste alle Schritte auf, die zum Fehler führen.
+        Nummeriere die Schritte chronologisch.
+        Beschreibe den Ausgangspunkt (z.B. "Startseite von pr0.app").
     validations:
       required: true
   - type: textarea
     id: expectation
     attributes:
-      label: Erwartung
-      description: Was sollte eigentlich passieren?
+      label: Erwartetes Verhalten
+      description: |
+        Erkläre, wie die Funktion eigentlich arbeiten sollte.
+        Beschreibe das gewünschte Ergebnis.
   - type: textarea
     id: env
     attributes:
-      label: Umgebung
-      description: Deine Browser- und Betriebbsystemversion
-      placeholder: |
-        Beispielsweise:
-        - Firefox 129 auf Windows 10H2
-        - Android-App auf Android 13
-        - Mobile Webseite auf Safari 17.1 mit iOS 17.1
+      label: Umgebungsinformationen
+      description: |
+        Browser und Version (z.B. Firefox 129).
+        Betriebssystem (z.B. Windows 10).
+        Bei mobilen Geräten: Gerät und OS-Version.
   - type: textarea
     id: rest
     attributes:
       label: Noch was?
       description: Was du uns schon immer mal sagen wolltest
+  - type: markdown
+    attributes:
+      value: |
+        ## Prüfe vor dem Erstellen, ob das Problem bereits gemeldet wurde.
