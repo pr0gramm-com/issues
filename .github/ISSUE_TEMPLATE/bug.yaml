@@ -48,3 +48,12 @@ body:
       label: Noch was?
       description: Was du uns schon immer mal sagen wolltest
 
+  - type: checkboxes
+    id: legal
+    attributes:
+      label: Papierkram
+      options:
+        - label: Ich habe [die Suche verwendet](https://github.com/pr0gramm-com/issues/issues?q=SUCHBEGRIFF) und geschaut, ob das Problem bereits gemeldet ist.
+          required: true
+        - label: Ja, habe ich wirklich.
+          required: true
