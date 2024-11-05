@@ -19,7 +19,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
     - [System & Performance](#system--performance)
     - [Funktionalitäten](#funktionalitäten)
     - [Sonstiges](#sonstiges)
-- [Leitfaden zum Erstellen von Issues](#leitfaden-zum-erstellen-von-issues)
 
 
 ## 🐛 Bekannte Bugs
