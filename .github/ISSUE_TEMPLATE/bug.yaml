@@ -20,11 +20,15 @@ body:
   - type: textarea
     id: repro
     attributes:
-      label: Reproduzierbarkeit
+      label: Reproduktion
       description: |
         Liste alle Schritte auf, die zum Fehler führen.
         Nummeriere die Schritte chronologisch.
         Beschreibe den Ausgangspunkt (z.B. "Startseite von pr0.app").
+      placeholder: |
+        1. Gehe auf https://pr0.app/top
+        2. Klicke auf "neu" in der Seitenleiste
+        3. ...
     validations:
       required: true
   - type: textarea
@@ -34,6 +38,8 @@ body:
       description: |
         Erkläre, wie die Funktion eigentlich arbeiten sollte.
         Beschreibe das gewünschte Ergebnis.
+      placeholder: |
+        Es sollte sich Seite XY öffnen und miz WZ anzeigen.
   - type: textarea
     id: env
     attributes:
@@ -42,6 +48,11 @@ body:
         Browser und Version (z.B. Firefox 129).
         Betriebssystem (z.B. Windows 10).
         Bei mobilen Geräten: Gerät und OS-Version.
+      placeholder: |
+        Beispielsweise:
+        - Firefox 129 auf Windows 10
+        - Android-App auf Android 13
+        - Mobile Webseite auf Safari 17.1 mit iOS 17.1
   - type: textarea
     id: rest
     attributes:
