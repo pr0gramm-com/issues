@@ -9,11 +9,11 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## Inhaltsverzeichnis
 - [Bekannte Bugs](#-bekannte-bugs)
-    - [UI/Design Probleme](#uidesign-probleme)
     - [Scroll & Navigation](#scroll--navigation)
     - [Video-bezogene Probleme](#video-bezogene-probleme)
     - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
+    - [UI/UX Verbesserungen](#uiux-verbesserungen)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
     - [System & Performance](#system--performance)
