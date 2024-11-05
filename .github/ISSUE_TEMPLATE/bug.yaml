@@ -3,15 +3,10 @@ description: Ein Fehler, der gefixt werden sollte.
 labels:
   - bug
 body:
-  - type: input
-    id: title
+  - type: markdown
     attributes:
-      label: Aussagekräftiger Titel
-      description: |
-        Wähle einen kurzen, aber präzisen Titel.
-        Der Titel sollte das Hauptproblem klar beschreiben.
-    validations:
-      required: true
+      value: |
+        ## Prüfe vor dem Erstellen, ob das Problem bereits gemeldet wurde.
   - type: textarea
     id: description
     attributes:
@@ -52,7 +47,4 @@ body:
     attributes:
       label: Noch was?
       description: Was du uns schon immer mal sagen wolltest
-  - type: markdown
-    attributes:
-      value: |
-        ## Prüfe vor dem Erstellen, ob das Problem bereits gemeldet wurde.
+
