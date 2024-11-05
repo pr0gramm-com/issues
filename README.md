@@ -91,12 +91,17 @@ Dieses Repository dient als öffentlicher Issue Tracker für das pr0gramm Redesi
 📝 Dieser Issue Tracker wird regelmäßig aktualisiert. Neue Issues werden entsprechend kategorisiert und hinzugefügt.
 
 
+
 # Leitfaden zum Erstellen von Issues
-- Inhaltsverzeichnis
-- Grundlegende Regeln
-- Zusätzliche Tipps
-- Beispielformat
-- Grundlegende Regeln
+Inhaltsverzeichnis
+- [Aussagekräftiger Titel](#aussagekräftiger-titel)
+- [Detaillierte Fehlerbeschreibung](#detaillierte-fehlerbeschreibung)
+- [Reproduzierbarkeit](#reproduzierbarkeit)
+- [Erwartetes Verhalten](#erwartetes-verhalten)
+- [Umgebungsinformationen](#umgebungsinformationen)
+- [Beispielformat](#beispielformat)
+
+
 ## Aussagekräftiger Titel
    - Wähle einen kurzen, aber präzisen Titel
    - Der Titel sollte das Hauptproblem klar beschreiben
