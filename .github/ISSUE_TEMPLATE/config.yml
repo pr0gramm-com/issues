@@ -3,3 +3,6 @@ contact_links:
   - name: pr0gramm.com-Support
     url: https://pr0gramm.com/contact
     about: Hier bekommst du Support und kannst Fragen stellen. Wenn du dir nicht sicher bist, wähle diese Option.
+  - name: Developer-Discord
+    url: https://discord.gg/mpJ6YYGzBq
+    about: Falls du zufällig Entwickler bist und bei der Fehlersuche helfen möchtest, kannst du auf unseren Dev-Discord kommen.
