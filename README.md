@@ -112,7 +112,7 @@ Inhaltsverzeichnis
 ## Reproduzierbarkeit
    - Liste alle Schritte auf, die zum Fehler führen
    - Nummeriere die Schritte chronologisch
-   - Beschreibe den Ausgangspunkt (z.B. "Startseite von dataport.cloud")
+   - Beschreibe den Ausgangspunkt (z.B. "Startseite von pr0.app")
 ## Erwartetes Verhalten
    - Erkläre, wie die Funktion eigentlich arbeiten sollte
    - Beschreibe das gewünschte Ergebnis
@@ -145,7 +145,6 @@ Inhaltsverzeichnis
 ### Umgebung
 - Browser: [Browser & Version]
 - Betriebssystem: [OS & Version]
-- Website: dataport.cloud
 
 ```
 Bei Fragen oder Unklarheiten kannst du dich jederzeit an uns wenden.
