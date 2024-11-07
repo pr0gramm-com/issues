@@ -1,0 +1,27 @@
+name: Feature-Request
+description: Eine Idee oder ein Featurewunsch
+labels:
+  - bug
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Ziel
+      description: Was möchtest du mit dem Feature erreichen? Welches Problem willst du gelöst haben?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Lösungsvorschlag
+      description: Was für einen Featurevorschlag hast du? Wenn du keinen Lösungsansatz hast, ist das auch okay.
+  - type: textarea
+    id: env
+    attributes:
+      label: Zielgruppe und -Umgebung
+      description: Für wen ist dieses Feature? Ist es für Mobil-User oder Desktop-User? Telekom-Kunden? Kadsenbesitzer?
+  - type: textarea
+    id: rest
+    attributes:
+      label: Noch was?
+      description: Was du uns schon immer mal sagen wolltest
