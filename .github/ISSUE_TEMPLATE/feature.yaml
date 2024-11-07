@@ -1,7 +1,7 @@
 name: Feature-Request
 description: Eine Idee oder ein Featurewunsch
 labels:
-  - bug
+  - feature
 body:
   - type: textarea
     id: problem
