@@ -1,12 +1,8 @@
-name: Bug Report
+name: Bug-Report
 description: Ein Fehler, der gefixt werden sollte.
 labels:
   - bug
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## Prüfe vor dem Erstellen, ob das Problem bereits gemeldet wurde.
   - type: textarea
     id: description
     attributes:
