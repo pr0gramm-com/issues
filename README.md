@@ -33,7 +33,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Videotimeline ruckelt
 
 ### Funktionale Fehler
-- Antworten-Button ausblenden, wenn maximale Kommentartiefe erreicht
 - Fehler bei erfolgreichem Upload
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
 - Session zerstört, Seite fehlert, Logout nicht möglich
@@ -72,7 +71,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Sammlungseinstellungen, Kuratoren, verschieben/kopieren
 
 ### Sonstiges
-- Impressum-Links auf der Beta-Login-Seite
 - Scroll to top in Impressum/AGB
 - Werbung
 - Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
