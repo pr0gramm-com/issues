@@ -34,7 +34,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ### Funktionale Fehler
 - Fehler bei erfolgreichem Upload
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
-- Session zerstört, Seite fehlert, Logout nicht möglich
 - Lade-Placeholder bleibt da, wenn Suche leer ausging
 
 ## ✨ Geplante Features & TODOs
