@@ -25,7 +25,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ### Scroll & Navigation
 - Itemsquery mit Around zeigt falschen Skeleton an
-- Stream scrollt beim tippen nach oben
 - Klick auf Item geht nicht zur Post-Übersicht von User, wenn man im Uploads-eines-Users ist
 
 ### Video-bezogene Probleme
