@@ -24,17 +24,15 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ## 🐛 Bekannte Bugs
 
 ### Scroll & Navigation
-- Itemsquery mit Around zeigt falschen Skeleton an
+- ItemsQuery mit Around zeigt falschen Skeleton an
 - Klick auf Item geht nicht zur Post-Übersicht von User, wenn man im Uploads-eines-Users ist
 
 ### Video-bezogene Probleme
-- Videos manchmal nicht klickbar um sie zu schließen
-- Videotimeline ruckelt
+- Videos manchmal nicht klickbar, um sie zu schließen
+- Videotimeline ruckelt in Firefox
 
 ### Funktionale Fehler
-- Fehler bei erfolgreichem Upload
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
-- Lade-Placeholder bleibt da, wenn Suche leer ausging
 
 ## ✨ Geplante Features & TODOs
 
