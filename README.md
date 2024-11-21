@@ -9,7 +9,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## Inhaltsverzeichnis
 - [Bekannte Bugs](#-bekannte-bugs)
-    - [Scroll & Navigation](#scroll--navigation)
     - [Video-bezogene Probleme](#video-bezogene-probleme)
     - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
@@ -22,10 +21,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 
 ## 🐛 Bekannte Bugs
-
-### Scroll & Navigation
-- ItemsQuery mit Around zeigt falschen Skeleton an
-- Klick auf Item geht nicht zur Post-Übersicht von User, wenn man im Uploads-eines-Users ist
 
 ### Video-bezogene Probleme
 - Videos manchmal nicht klickbar, um sie zu schließen
