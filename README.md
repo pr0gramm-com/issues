@@ -44,7 +44,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Username-Vervollständigung für Textfelder
 
 ### Umsetzung neue Features
-- Wichteln 2.0
 - Quick Polls in der Seitenleiste
 - Unterstützung mehrerer Tonspuren
 - Upload Editor
