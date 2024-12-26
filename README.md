@@ -22,10 +22,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## 🐛 Bekannte Bugs
 
-### Video-bezogene Probleme
-- Videos manchmal nicht klickbar, um sie zu schließen
-- Videotimeline ruckelt in Firefox
-
 ### Funktionale Fehler
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
 
@@ -51,7 +47,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Komplette Überarbeitung des Suchservices
 
 ### System & Performance
-- Item Stream Desktop noch nicht fertig
 - Support für Ersatzserver
 
 ### Funktionalitäten
