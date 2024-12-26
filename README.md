@@ -28,7 +28,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ## ✨ Geplante Features & TODOs
 
 ### UI/UX Verbesserungen
-- Auto-Grow-TextArea
 - Details-Element beim auf UND zuklappen animieren
 
 ### Umsetzung alte Features
@@ -56,7 +55,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Sammlungseinstellungen, Kuratoren, verschieben/kopieren
 
 ### Sonstiges
-- Scroll to top in Impressum/AGB
 - Werbung
 - Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
 
