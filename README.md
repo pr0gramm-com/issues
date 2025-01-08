@@ -9,7 +9,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## Inhaltsverzeichnis
 - [Bekannte Bugs](#-bekannte-bugs)
-    - [Scroll & Navigation](#scroll--navigation)
     - [Video-bezogene Probleme](#video-bezogene-probleme)
     - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
@@ -23,14 +22,8 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## 🐛 Bekannte Bugs
 
-### Scroll & Navigation
-- Itemsquery mit Around zeigt falschen Skeleton an
-- Stream scrollt beim tippen nach oben
-- Klick auf Item geht nicht zur Post-Übersicht von User, wenn man im Uploads-eines-Users ist
-
 ### Video-bezogene Probleme
-- Videos manchmal nicht klickbar um sie zu schließen
-- Videotimeline ruckelt
+- Videotimeline ruckelt auf manchen Browsern
 
 ### Funktionale Fehler
 - Fehler bei erfolgreichem Upload
@@ -58,22 +51,18 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Unterstützung mehrerer Tonspuren
 - Upload Editor
 - Video Editor
-- Komplette Überarbeitung des Suchservices
 
 ### System & Performance
 - Item Stream Desktop noch nicht fertig
 - Support für Ersatzserver
 
 ### Funktionalitäten
-- noch unfertige Einstellungsmenüs
 - Gesehen Status schreiben
 - Kommentarverlinkungen Inbox
 - Sammlungseinstellungen, Kuratoren, verschieben/kopieren
 
 ### Sonstiges
-- Scroll to top in Impressum/AGB
 - Werbung
-- Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
 
 📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 
