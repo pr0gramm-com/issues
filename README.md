@@ -22,19 +22,12 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## 🐛 Bekannte Bugs
 
-### Video-bezogene Probleme
-- Videotimeline ruckelt auf manchen Browsern
-
 ### Funktionale Fehler
-- Fehler bei erfolgreichem Upload
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
-- Session zerstört, Seite fehlert, Logout nicht möglich
-- Lade-Placeholder bleibt da, wenn Suche leer ausging
 
 ## ✨ Geplante Features & TODOs
 
 ### UI/UX Verbesserungen
-- Auto-Grow-TextArea
 - Details-Element beim auf UND zuklappen animieren
 
 ### Umsetzung alte Features
@@ -46,23 +39,24 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Username-Vervollständigung für Textfelder
 
 ### Umsetzung neue Features
-- Wichteln 2.0
 - Quick Polls in der Seitenleiste
 - Unterstützung mehrerer Tonspuren
 - Upload Editor
 - Video Editor
+- Komplette Überarbeitung des Suchservices
 
 ### System & Performance
-- Item Stream Desktop noch nicht fertig
 - Support für Ersatzserver
 
 ### Funktionalitäten
+- noch unfertige Einstellungsmenüs
 - Gesehen Status schreiben
 - Kommentarverlinkungen Inbox
 - Sammlungseinstellungen, Kuratoren, verschieben/kopieren
 
 ### Sonstiges
 - Werbung
+- Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
 
 📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 
