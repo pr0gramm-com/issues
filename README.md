@@ -9,7 +9,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ## Inhaltsverzeichnis
 - [Bekannte Bugs](#-bekannte-bugs)
-    - [Video-bezogene Probleme](#video-bezogene-probleme)
     - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [UI/UX Verbesserungen](#uiux-verbesserungen)
@@ -43,13 +42,11 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Unterstützung mehrerer Tonspuren
 - Upload Editor
 - Video Editor
-- Komplette Überarbeitung des Suchservices
 
 ### System & Performance
 - Support für Ersatzserver
 
 ### Funktionalitäten
-- noch unfertige Einstellungsmenüs
 - Gesehen Status schreiben
 - Kommentarverlinkungen Inbox
 - Sammlungseinstellungen, Kuratoren, verschieben/kopieren
