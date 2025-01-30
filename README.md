@@ -33,7 +33,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Meme Generator
 - Profilbilder
 - Registrierung
-- pr0mium Kauf
 - Repost-Anzeige beim Upload
 - Username-Vervollständigung für Textfelder
 
