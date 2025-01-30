@@ -31,7 +31,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ### Umsetzung alte Features
 - Meme Generator
-- Profilbilder
 - Registrierung
 - Repost-Anzeige beim Upload
 - Username-Vervollständigung für Textfelder
