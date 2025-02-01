@@ -8,20 +8,12 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 
 ## Inhaltsverzeichnis
-- [Bekannte Bugs](#-bekannte-bugs)
-    - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
     - [System & Performance](#system--performance)
     - [Funktionalitäten](#funktionalitäten)
     - [Sonstiges](#sonstiges)
-
-
-## 🐛 Bekannte Bugs
-
-### Funktionale Fehler
-- Mancher State wird bei CheckSimilar-Responses zurückgesetzt
 
 ## ✨ Geplante Features & TODOs
 
