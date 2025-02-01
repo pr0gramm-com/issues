@@ -33,7 +33,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Meme Generator
 - Registrierung
 - Repost-Anzeige beim Upload
-- Username-Vervollständigung für Textfelder
 
 ### Umsetzung neue Features
 - Quick Polls in der Seitenleiste
