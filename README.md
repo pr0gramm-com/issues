@@ -37,7 +37,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ### Umsetzung neue Features
 - Quick Polls in der Seitenleiste
-- Unterstützung mehrerer Tonspuren
 - Upload Editor
 - Video Editor
 
@@ -46,8 +45,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 
 ### Funktionalitäten
 - Gesehen Status schreiben
-- Kommentarverlinkungen Inbox
-- Sammlungseinstellungen, Kuratoren, verschieben/kopieren
 
 ### Sonstiges
 - Werbung
