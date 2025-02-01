@@ -11,7 +11,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - [Bekannte Bugs](#-bekannte-bugs)
     - [Funktionale Fehler](#funktionale-fehler)
 - [Geplante Features & TODOs](#-geplante-features--todos)
-    - [UI/UX Verbesserungen](#uiux-verbesserungen)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
     - [System & Performance](#system--performance)
@@ -25,9 +24,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Mancher State wird bei CheckSimilar-Responses zurückgesetzt
 
 ## ✨ Geplante Features & TODOs
-
-### UI/UX Verbesserungen
-- Details-Element beim auf UND zuklappen animieren
 
 ### Umsetzung alte Features
 - Meme Generator
