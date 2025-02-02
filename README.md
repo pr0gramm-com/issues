@@ -11,7 +11,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
-    - [System & Performance](#system--performance)
     - [Funktionalitäten](#funktionalitäten)
     - [Sonstiges](#sonstiges)
 
@@ -26,9 +25,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Quick Polls in der Seitenleiste
 - Upload Editor
 - Video Editor
-
-### System & Performance
-- Support für Ersatzserver
 
 ### Funktionalitäten
 - Gesehen Status schreiben
