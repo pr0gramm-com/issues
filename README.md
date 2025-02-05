@@ -22,7 +22,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - Repost-Anzeige beim Upload
 
 ### Umsetzung neue Features
-- Quick Polls in der Seitenleiste
 - Upload Editor
 - Video Editor
 
