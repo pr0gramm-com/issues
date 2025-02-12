@@ -11,7 +11,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
-    - [Funktionalitäten](#funktionalitäten)
     - [Sonstiges](#sonstiges)
 
 ## ✨ Geplante Features & TODOs
@@ -22,9 +21,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ### Umsetzung neue Features
 - Upload Editor
 - Video Editor
-
-### Funktionalitäten
-- Gesehen Status schreiben
 
 ### Sonstiges
 - Werbung
