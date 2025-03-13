@@ -11,21 +11,18 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [Umsetzung alte Features](#umsetzung-alte-features)
     - [Umsetzung neue Features](#umsetzung-neue-features)
-    - [Sonstiges](#sonstiges)
 
 ## ✨ Geplante Features & TODOs
 
 ### Umsetzung alte Features
-- Meme Generator
 - Chronik
+- Werbung
 
 ### Umsetzung neue Features
-- Upload Editor
 - Video Editor
-
-### Sonstiges
-- Werbung
-- Mobiler Player: Bei Pause immer anzeigen, dass gerade pausiert ist
+- Hochlad Texter
+- Markdown Support
+- Mobiles Seitenmenü
 
 📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 
