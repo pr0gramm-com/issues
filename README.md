@@ -17,6 +17,7 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ### Umsetzung alte Features
 - Chronik
 - Werbung
+- Erweiterte Suche
 
 ### Umsetzung neue Features
 - Video Editor
