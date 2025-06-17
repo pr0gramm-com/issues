@@ -15,15 +15,13 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ## ✨ Geplante Features & TODOs
 
 ### Umsetzung alte Features
-- Chronik
-- Werbung
 - Erweiterte Suche
 
 ### Umsetzung neue Features
 - Video Editor
 - Hochlad Texter
 - Markdown Support
-- Mobiles Seitenmenü
+- Mobiles Bottommenu
 
 📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 
