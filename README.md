@@ -10,18 +10,23 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ## Inhaltsverzeichnis
 - [Geplante Features & TODOs](#-geplante-features--todos)
     - [Umsetzung alte Features](#umsetzung-alte-features)
+    - [Wird nochmal überarbeitet](#wird-nochmal--berarbeitet)
     - [Umsetzung neue Features](#umsetzung-neue-features)
 
 ## ✨ Geplante Features & TODOs
 
 ### Umsetzung alte Features
-- Erweiterte Suche
+- Drag & Drop für Sammlungen
+- oAuth
+
+### Wird nochmal überarbeitet
+- Memeeditor
 
 ### Umsetzung neue Features
 - Video Editor
 - Hochlad Texter
 - Markdown Support
-- Mobiles Bottommenu
+
 
 📝 Dieser Issue Tracker wird unregelmäßig aktualisiert.
 
