@@ -16,7 +16,6 @@ In dieser README findest du außerdem noch geplante Features/TODOS, sowie uns be
 ## ✨ Geplante Features & TODOs
 
 ### Umsetzung alte Features
-- Drag & Drop für Sammlungen
 - oAuth
 
 ### Wird nochmal überarbeitet
